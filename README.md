@@ -1,1 +1,1 @@
-# Things_Abount_Python
+# Things_About_Python
